@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todotriocalendar/static/css/main.eba50762.css",
+    "main.js": "/todotriocalendar/static/js/main.b0757bc0.js",
+    "static/js/488.778775d4.chunk.js": "/todotriocalendar/static/js/488.778775d4.chunk.js",
+    "index.html": "/todotriocalendar/index.html",
+    "main.eba50762.css.map": "/todotriocalendar/static/css/main.eba50762.css.map",
+    "main.b0757bc0.js.map": "/todotriocalendar/static/js/main.b0757bc0.js.map",
+    "488.778775d4.chunk.js.map": "/todotriocalendar/static/js/488.778775d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eba50762.css",
+    "static/js/main.b0757bc0.js"
+  ]
+}
